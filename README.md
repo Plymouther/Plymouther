@@ -1,7 +1,6 @@
 # Hi there, I'm Emin Gani 👋
 
-Welcome to my GitHub profile! I'm a International Management Student with a background in **Japan-Studies and Backend Developement**. My interests span across **, Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **CSRD Implementation**. I see ESG and sustainability as data-driven regulatory systems that still have significant technical gaps. My goal is to contribute to their advancement through data analysis and data architecture, making sustainable processes more efficient and impactful.
-
+Welcome to my GitHub profile! I'm an International Management Student with a background in **Japan-Studies and Backend Development**. My interests span across **Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **CSRD Implementation**. I see ESG and sustainability as data-driven regulatory systems that still have significant technical gaps. My goal is to contribute to their advancement through data analysis and data architecture, making sustainable processes more efficient and impactful.
 
 ## 🔥 About Me
 - 🎓 **Degree**: B.A. in International Business & Applied Business Japanese
@@ -11,10 +10,10 @@ Welcome to my GitHub profile! I'm a International Management Student with a back
 - ⚡ **Fun Fact**: During my time at **Volkswagen Japan**, I automated several reporting and data-processing tasks, optimizing workflows and reducing manual effort significantly!
 
 ## 📊 GitHub Stats & Activity
-<div style="display: flex; justify-content: space-around; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plymouther&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plymouther&layout=compact&theme=radical" width="45%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plymouther&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plymouther&layout=compact&theme=radical)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Plymouther)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Plymouther&theme=radical)
 
 ## 🛠️ Tech & Tools I Use
 - **Programming**: Golang, Python, VBA, SQL
