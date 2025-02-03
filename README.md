@@ -1,6 +1,6 @@
 # Hi there, I'm Emin Gani 👋
 
-Welcome to my GitHub profile! I'm a International Management Student with a background in **Japan-Studies and Backend Developement**. My interests span across **, Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **CSRD Implementation**. I see **ESG and sustainability** as **data-driven regulatory systems** that still have significant technical gaps. My goal is to contribute to their advancement through **data analysis** and **data architecture**, making sustainable processes more efficient and impactful.
+Welcome to my GitHub profile! I'm a International Management Student with a background in **Japan-Studies and Backend Developement**. My interests span across **, Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **CSRD Implementation**. I see ESG and sustainability as data-driven regulatory systems that still have significant technical gaps. My goal is to contribute to their advancement through data analysis and data architecture, making sustainable processes more efficient and impactful.
 
 
 ## 🔥 About Me
