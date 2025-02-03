@@ -1,11 +1,11 @@
 # Hi there, I'm Emin Gani 👋
 
-Welcome to my GitHub profile! I'm a business professional with a background in **International Business and Applied Business Languages (Japan)**. My interests span across **Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **automation, analytics, and scalable solutions**.
+Welcome to my GitHub profile! I'm a business Student with a background in **International Business and Applied Business Languages (Japan)**. My interests span across **, Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **automation, analytics, and scalable solutions**.
 
 ## 🔥 About Me
 - 🎓 **Degree**: B.Sc. in International Business & Applied Business Languages (Japan)
 - 💼 **Current Role**: ESG Strategy and Transformation Working Student at Ayvens (ALD Automotive)
-- 🌍 **Interests**: Data Analytics → Backend Development → Digital Transformation → Consulting
+- 🌍 **Interests**: Backend Development → Data Analytics → Digital Transformation → Consulting
 - 🌏 **Languages**: English, German, Japanese, Turkish
 - ⚡ **Fun Fact**: During my time at **Volkswagen Japan**, I automated several reporting and data-processing tasks, optimizing workflows and reducing manual effort significantly!
 
