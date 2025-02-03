@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm an International Management Student with a bac
 ## 📊 GitHub Stats & Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plymouther&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plymouther&layout=compact&theme=radical)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Plymouther)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Plymouther&theme=radical)
 
 ## 🛠️ Tech & Tools I Use
 - **Programming**: Golang, Python, VBA, SQL
