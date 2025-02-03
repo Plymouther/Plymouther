@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a business Student with a background in **International Business and Applied Business Languages (Japan)**. My interests span across **, Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **automation, analytics, and scalable solutions**.
 
 ## 🔥 About Me
-- 🎓 **Degree**: B.Sc. in International Business & Applied Business Languages (Japan)
+- 🎓 **Degree**: B.A. in International Business & Applied Business Japanese
 - 💼 **Current Role**: ESG Strategy and Transformation Working Student at Ayvens (ALD Automotive)
-- 🌍 **Interests**: Backend Development → Data Analytics → Digital Transformation → Consulting
+- 🌍 **Interests**: Sustainability → Backend Development → Data Analytics → Digital Transformation
 - 🌏 **Languages**: English, German, Japanese, Turkish
 - ⚡ **Fun Fact**: During my time at **Volkswagen Japan**, I automated several reporting and data-processing tasks, optimizing workflows and reducing manual effort significantly!
 
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a business Student with a background in **Inte
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plymouther&layout=compact&theme=radical)
 
 ## 🛠️ Tech & Tools I Use
-- **Programming**: Golang, VBA (Excel Automation), SQL, Python (Basic Analytics)
-- **Tools**: Excel, Power BI, SAP, GitHub, Jira, Confluence
+- **Programming**: Golang, Python, VBA, SQL
+- **Tools**: Excel, Power BI, GitHub, Docker, Confluence
 - **Cloud & SaaS**: Google Cloud Platform (GCP), SaaS Sales Concepts
 
 ## 🏆 Career Aspirations
