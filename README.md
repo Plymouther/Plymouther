@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an International Management Student with a bac
 - ⚡ **Fun Fact**: During my time at **Volkswagen Japan**, I automated several reporting and data-processing tasks, optimizing workflows and reducing manual effort significantly!
 
 ## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plymouther&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plymouther&show_icons=true&theme=default&bg_color=ffffff&hide=stars,contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Plymouther&show_icons=true&locale=en&layout=compact)
 
 ## 🛠️ Tech & Tools I Use
