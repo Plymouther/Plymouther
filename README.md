@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an International Management Student with a background in **Japan-Studies and Backend Development**. My interests span across **Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **CSRD Implementation**. I see ESG and sustainability as data-driven regulatory systems that still have significant technical gaps. My goal is to contribute to their advancement through data analysis and data architecture, making sustainable processes more efficient and impactful.
 
 ## 🔥 About Me
-- 🎓 **Degree**: B.A. in International Business & Applied Business Japanese
+- 🎓 **Degree**: B.A. in International Management & Applied Business Japanese
 - 💼 **Current Role**: ESG Strategy and Transformation Working Student at Ayvens (ALD Automotive)
 - 🌍 **Interests**: Sustainability → Backend Development → Data Analytics → Digital Transformation
 - 🌏 **Languages**: English, German, Japanese, Turkish
