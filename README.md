@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an International Management Student with a bac
 ## 🛠️ Tech & Tools I Use
 - **Programming**: Golang, Python, VBA, SQL
 - **Tools**: Excel, Power BI, GitHub, Docker, Confluence
-- **Cloud & SaaS**: Google Cloud Platform (GCP), SaaS Sales Concepts
+- **Cloud**: aws
 
 ## 🏆 Career Aspirations
 I am actively exploring roles in:
