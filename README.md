@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an International Management Student with a bac
 
 ## 🔥 About Me
 - 🎓 **Degree**: B.A. in International Management & Applied Business Japanese
-- 📚 **Trainee**: Backend Development Bootcamp at Boot.dev
+- 📚 **Trainee**: Backend Development at Boot.dev
 - 💼 **Current Role**: ESG Strategy and Transformation Working Student at Ayvens (ALD Automotive)
 - 🌍 **Interests**: Sustainability → Backend Development → Data Analytics → Digital Transformation
 - 🌏 **Languages**: English, German, Japanese, Turkish
