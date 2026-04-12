@@ -1,32 +1,33 @@
 # Hi there, I'm Emin Gani 👋
 
-Welcome to my GitHub profile! I'm an International Management Student with a background in **Japan-Studies and Backend Development**. My interests span across **Sustainability, Data Analytics, Backend Development, Digital Transformation, and Consulting**, with a strong focus on **CSRD Implementation**. I see ESG and sustainability as data-driven regulatory systems that still have significant technical gaps. My goal is to contribute to their advancement through data analysis and data architecture, making sustainable processes more efficient and impactful.
+Welcome to my GitHub profile! I'm a recent graduate in International Management with a strong interest in how technology, data, and AI are reshaping the way businesses operate. My background combines business, international experience, and hands-on work in automation and process improvement.
+
+Right now, I’m especially focused on understanding how AI, data systems, and digital products create real-world impact. I’m actively exploring how I can contribute to building smarter processes, better tools, and more efficient systems.
 
 ## 🔥 About Me
-- 🎓 **Degree**: B.A. in International Management & Applied Business Japanese
-- 📚 **Trainee**: Backend Development at Boot.dev
-- 🌍 **Interests**: Sustainability → Backend Development → Data Analytics → Digital Transformation
-- 🌏 **Languages**: English, German, Japanese, Turkish
-- ⚡ **Fun Fact**: During my time at **Volkswagen Japan**, I automated several reporting and data-processing tasks, optimizing workflows and reducing manual effort significantly!
+- 🎓 **Graduate**: B.A. in International Management & Applied Business Japanese  
+- 💻 **Currently Learning**: AI Fundamentals, Data Analytics, and Backend Developement  
+- 🤖 **Main Interests**: AI, Data Science, Technology Transformation, Automation  
+- 🌏 **Languages**: English, German, Japanese, Turkish  
+- ⚡ **Fun Fact**: During my time at Volkswagen Group Japan, I automated reporting and data-processing workflows with VBA, helping reduce manual work and improve efficiency.
 
 ## 📊 GitHub Stats & Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plymouther&show_icons=true&theme=dark&bg_color=1e1e1e&hide=stars,contribs&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Plymouther&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1e1e1e&hide=html)
 
 ## 🛠️ Tech & Tools I Use
-- **Programming**: Golang, Python, VBA, SQL
-- **Tools**: Excel, Power BI, GitHub, Docker, Confluence
-- **Cloud**: aws
+- **Programming**: Python, VBA  
+- **Tools**: Excel, GitHub, Docker,
 
 ## 🏆 Career Aspirations
-I am actively exploring roles in:
-- **Backend Development**
-- **Finance/ESG Analytics**
-- **Digital Transformation**
-- **SaaS**
+I’m particularly interested in roles and projects related to:
+- **AI & Data-Driven Process Improvement**
+- **Technology Transformation & Automation**
+
+I’m excited by the potential of AI and currently working to better understand how intelligent systems, data, and software can create meaningful change. My goal is to combine business understanding with technical skills to contribute to impactful products and smarter organizations.
 
 ## 📬 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/emin-gani-1623b3236)  
 📧 [Email](mailto:gani.emin.bewerbungen@hotmail.com)  
 
-🚀 Open to collaborations, discussions, and new opportunities!
+🚀 Open to collaborations, interesting discussions, and opportunities in tech, AI, and data.
