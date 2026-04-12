@@ -11,10 +11,6 @@ Right now, I’m especially focused on understanding how AI, data systems, and d
 - 🌏 **Languages**: English, German, Japanese, Turkish  
 - ⚡ **Fun Fact**: During my time at Volkswagen Group Japan, I automated reporting and data-processing workflows with VBA, helping reduce manual work and improve efficiency.
 
-## 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plymouther&show_icons=true&theme=dark&bg_color=1e1e1e&hide=stars,contribs&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Plymouther&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1e1e1e&hide=html)
-
 ## 🛠️ Tech & Tools I Use
 - **Programming**: Python, VBA  
 - **Tools**: Excel, GitHub, Docker,
