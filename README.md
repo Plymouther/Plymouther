@@ -1,4 +1,4 @@
-# Hi there, I'm Emin Gani 👋
+# Hi there,
 
 Welcome to my GitHub profile! I'm a recent graduate in International Management with a strong interest in how technology, data, and AI are reshaping the way businesses operate. My background combines business, international experience, and hands-on work in automation and process improvement.
 
